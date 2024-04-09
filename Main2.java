@@ -8,5 +8,8 @@ public class Main2{
   public void printData(){
     System.out.println(this.data);
   }
+    public int timesTwo(){
+	return data*2;
+    }
 
 }
