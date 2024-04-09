@@ -7,5 +7,7 @@ class Main{
 	m.printData();
 
 	System.out.println(m.timesTwo());
+
+	System.out.println(30);
     }
 }
